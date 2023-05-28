@@ -1,5 +1,3 @@
-
-
 /* clases */
 .nav-custom{
     background-color: #197ABE;
@@ -24,7 +22,7 @@
     padding-right: 1em;
 }
 
-.svg_pilar{
+.svg-pilar{
     width: 2em;
     height: 2em;
 }
@@ -36,7 +34,7 @@
 }
 
 /* ID */
-#contenedor_logo{
+#contenedor-logo{
     padding-left: 5em;
 }
 
@@ -44,7 +42,7 @@
     padding-right: 5em;
 }
 
-#seccion_contenido{
+#seccion-contenido{
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -52,7 +50,7 @@
     padding-right: 1em;
 }
 
-#seccion_pilares{
+#seccion-pilares{
     display:flex; 
     flex-direction: row;
     background-color: #02243D;
@@ -60,3 +58,22 @@
     padding-bottom: 5em;
 }
 
+#footer-base{
+    color: black;
+    text-align: center;
+}
+
+.titulo-pilar{
+    color: white;
+}
+
+.parrafo-pilar{
+    color: white;
+    text-align: justify;
+}
+
+.parrafo-footer{
+
+    padding: 1em 2em 1em 2em;
+
+}
