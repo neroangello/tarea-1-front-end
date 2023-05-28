@@ -1,0 +1,62 @@
+
+
+/* clases */
+.nav-custom{
+    background-color: #197ABE;
+    color: white;
+}
+
+.logo{
+    width: 140px;
+    height: 50;
+}
+
+.imagen-carousel{
+    width: 640px;
+    height: 480;
+}
+
+.pilar{
+    text-align: center;    
+    color: white;
+    background-color: #02243D;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.svg_pilar{
+    width: 2em;
+    height: 2em;
+}
+
+.pilar:nth-child(1), .pilar:nth-child(2), .pilar:nth-child(3){
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: white;
+}
+
+/* ID */
+#contenedor_logo{
+    padding-left: 5em;
+}
+
+#navbarSupportedContent{
+    padding-right: 5em;
+}
+
+#seccion_contenido{
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#seccion_pilares{
+    display:flex; 
+    flex-direction: row;
+    background-color: #02243D;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
